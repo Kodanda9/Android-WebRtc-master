@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\7eb6b569646ffc03954df202ac8779dbfc41c22e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\76e61239a4ae355fe2d8f2f583da17b7998f9e79\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\7eb6b569646ffc03954df202ac8779dbfc41c22e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\76e61239a4ae355fe2d8f2f583da17b7998f9e79\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\76e61239a4ae355fe2d8f2f583da17b7998f9e79\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\7eb6b569646ffc03954df202ac8779dbfc41c22e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\76e61239a4ae355fe2d8f2f583da17b7998f9e79\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d28c46a40878fc7ef1a4e77bb4e603469ed009f0\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\7eb6b569646ffc03954df202ac8779dbfc41c22e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Refer\\WebRTC\\WebRTC for VideoCall\\Android-WebRtc-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\AILOGIC3\\.android\\build-cache\\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

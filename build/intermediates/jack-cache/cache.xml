@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\libs\autobanh.jar"
+        revision="27.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\autobanh-d0a7d675e4c9c2827316db67c22dbc95f1378df9.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-b3edc2159fdbe9377ecf990c1b400ed84daef940.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\084a93cd8b24447aba655c73c046cd4a4e5bd8f7\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-567248246948b75d1b047a7226349b78d7abd6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\258ba1b8d9036d86201735e17b3ee92f3a62ce05\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5c2fb93f9f3d1abf17665e73bdc427a4a0c79f84.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\76e12afba892ffa81f28fa769ccba8fcf9405c1f\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b6056981b4e97efcbc7a2a15228963c49a4dbfc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\5738b43d63648072fb16fcbdf07718de1927acf1\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-35cc82cbf997f255337a8cbfe5161bc79a47b2d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\AppData\Local\Android\Sdk\platforms\android-27\android.jar"
+        revision="27.0.2"
+        sha1="eef427ae8ddf45923e199ef329cc834bd9115182">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-fddc0d0f11b0fc9c5a05cc2d06ebfacb7b722c9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\common-1.0.0-706271abc2db08f663f2e777ab958c5a2d6ecd68.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\d3a525749e64c302f47e7b2209e919684861c34b\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-cc194c380cb794a3400a3e4b6b75d936837f8eb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\48e79ac56a3037bb23b303b11523408ba2301263\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0c249db9dd35b09c453a802885dec10e1689bb4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\AppData\Local\Android\Sdk\platforms\android-27\optional\org.apache.http.legacy.jar"
+        revision="27.0.2"
+        sha1="dc5a20a799a040ca9244a21dd6de61b5498e9616">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-2f811adf9de6a4b8f1f61d8707e1ee3530834970.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\42c0fb67c65d7eef6f39587c3a4123e87f814563\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9be986fd5febc01f941f48c2be3ba2b4d5827821.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\e730d3f01eef250c4b54b7a59d06f5c2a047c39b\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-34dd3ac43608972845f4315c3b14ec54f318e2af.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-27.0.2-373001a21d62f132ccbe96e349e60bf1a9a035a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\48c781ef6a484ef9c9e8c781b8c25c97ae6c0459\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fbe99d3e6575a0478153a87dcd43dac3304d7cde.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\common-1.0.3-26569bc8507bbc2425656319d5d8e4843e133f83.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\fd750b2ab791633ba3414c4e6b6bc596e563befc\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-feb38f45cac76f9165de738ec63e3252f811e9ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\92033704a33d3511fbfa58072855dff32ff870e8\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ef8e4f407ecd3370516ce7dda2ab1da39bb0ec12.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\f67a36a81986933d23f36413c1e998f4bdd3e565\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2a4a630b61f484c4e99f06e52b774b4a65c069eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\d242ebe0d6828e0dd26eecd5eaf46175867ae29f\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0716ad16c9116a115a345c94ebce7083ad157bc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\51da4ffe061cdeec8b03f84604845416be86b5c9\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-862c98bc70aa22f7bca435e5a5659ce0e8440044.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\3e800a6da9b5bf3215e1fc244d9afd90b9b8e8c2\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3f3204bc08011ef597d6e13acbc19a89499aea5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\4461fd9fe88e2c5f43be8fa9020561a094199638\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="3042a6fa1301374f44b76c8cd82b1f0247dc0eb9">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ef8c47a3048a9ec076f9606556827ca80303eecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.3.0\d63c4d23204cadf1390fd1bbca8c1b05396aed\baseLibrary-2.3.0.jar"
+        revision="27.0.2"
+        sha1="00d63c4d23204cadf1390fd1bbca8c1b05396aed">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\baseLibrary-2.3.0-b3406a68bb0c726a258b95206365e641aeb03de8.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\ad4133a39802839ae138d90318ba8610384c2826\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4f1ecab0c588000e9fd9b96c37ec3824270af151.jar" />
+    </item>
+    <item
+        jar="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\libs\base_java.jar"
+        revision="27.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\base_java-432ebc525a7db99f3f31ea015486fc666295d9fc.jar" />
+    </item>
+    <item
+        jar="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\libs\libjingle_peerconnection.jar"
+        revision="27.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\libjingle_peerconnection-3ee163dcd15072d18431fb4ee502a4733b3f17e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.5\4f1ac7ec0215e8f87ac80269baadc82878b87ed8\rxjava-2.0.5.jar"
+        revision="27.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-2.0.5-80fcef942d196ba5e2cedf494b21d3f4339ad7d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        revision="27.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\reactive-streams-1.0.0-19d60e0a60a965d85e52dfb9aad91d50d3d10b33.jar" />
+    </item>
+    <item
+        jar="C:\Users\AILOGIC3\.android\build-cache\76e61239a4ae355fe2d8f2f583da17b7998f9e79\output\jars\classes.jar"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="F:\Refer\WebRTC\WebRTC for VideoCall\Android-WebRtc-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-27ff9157e5e5b3f7966cf89a05a139bd8796e4fa.jar" />
+    </item>
+
+</items>
